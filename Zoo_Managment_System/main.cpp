@@ -1,3 +1,4 @@
+// Gal & Tal Tzemach
 #pragma warning( disable : 4290 )
 
 #include <iostream>
